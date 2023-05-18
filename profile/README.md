@@ -1,2 +1,2 @@
-# .github
-The homepage for our org
+# README
+The homepage readme for our org
